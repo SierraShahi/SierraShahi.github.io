@@ -1,0 +1,33 @@
+* {
+    font-family: Roboto, sans-serif;
+}
+h1, h2 {
+    font-weight: 500;
+}
+
+li {
+    font-weight: 300;
+}
+
+.about-me {
+    text-align: center;
+}
+
+.container {
+    padding: 0 20rem;
+
+}
+
+.items {
+    border: 1px solid #ccc;
+    border-radius: 1rem;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 5px 20px;
+}
+
+.item-text {
+    font-weight: 300;
+    line-height: 20px;
+    text-align: justify;
+}
